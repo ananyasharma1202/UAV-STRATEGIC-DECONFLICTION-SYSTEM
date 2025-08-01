@@ -1,0 +1,6 @@
+{
+    "safety_buffer": 15.0,
+    "trajectory_resolution": 0.1,
+    "animation_fps": 10,
+    "animation_duration": 5
+}
